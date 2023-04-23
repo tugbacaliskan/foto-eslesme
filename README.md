@@ -1,2 +1,1 @@
 # foto-eslesme
-odev
